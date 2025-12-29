@@ -23,7 +23,7 @@ This project implements a machine learning model to classify SMS messages as eit
 
 4.  **Dataset:**
     Ensure the `sms_spam_no_header.csv` file is present in the root of your project directory. If you need to   download it, you can find it at:
-    `https://raw.githubusercontent.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-Cybersecurity/refs/heads      aster/Chapter03/datasets/sms_spam_no_header.csv`
+    `https://raw.githubusercontent.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-Cybersecurity/refs/headsaster/Chapter03/datasets/sms_spam_no_header.csv`
 
 ## Usage
 
